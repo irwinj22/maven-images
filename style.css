@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "AppleGaramond-Light";
+    src: url("AppleGaramond-Light.ttf");
+}
+
+html, body {
+    font-size: 24px;
+    justify-content: center;
+    height: 100%;
+    font-family: "AppleGaramond-Light", sans-serif;
+}
+
+.container {
+    width: 60%;
+    margin: 0 auto 40px;
+    min-height: 100%;
+    text-align: center;
+    margin-top: 80px;
+}
